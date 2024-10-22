@@ -1,0 +1,4 @@
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfo.cs
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
