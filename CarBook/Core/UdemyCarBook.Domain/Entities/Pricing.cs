@@ -10,6 +10,6 @@ namespace UdemyCarBook.Domain.Entities
     {
         public int PricingId { get; set; }
         public string Name { get; set; }
-        public Lİst<CarPricing> CarPricings { get; set; }
+        public List<CarPricing> CarPricings { get; set; }
     }
 }

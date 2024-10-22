@@ -2,3 +2,11 @@ C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architectur
 C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfoInputs.cache
 C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.AssemblyInfo.cs
 C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.sourcelink.json
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.deps.json
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\refint\UdemyCarBook.Domain.dll
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\gizem\source\repos\BookCar-Project-AspNetCore-8.0-API-Onion-Architecture\CarBook\Core\UdemyCarBook.Domain\obj\Debug\net8.0\ref\UdemyCarBook.Domain.dll

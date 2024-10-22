@@ -13,6 +13,6 @@ namespace UdemyCarBook.Domain.Entities
         public Brand Brand { get; set; }
         public List<CarFeature> CarFeatures { get; set; }
         public List<CarDescription> CarDescriptions { get; set; }
-        public Lİst<CarPricing> CarPricings { get; set; }
+        public List<CarPricing> CarPricings { get; set; }
     }
 }

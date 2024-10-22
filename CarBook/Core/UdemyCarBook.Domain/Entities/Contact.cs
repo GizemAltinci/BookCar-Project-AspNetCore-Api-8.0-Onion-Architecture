@@ -8,7 +8,7 @@ namespace UdemyCarBook.Domain.Entities
 {
     public class Contact
     {
-        public int Contactd { get; set; }
+        public int ContactId { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
         public string Subject { get; set; }
